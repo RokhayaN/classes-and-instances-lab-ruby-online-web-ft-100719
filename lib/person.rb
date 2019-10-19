@@ -1,4 +1,4 @@
-Class Person
+class Person
 end
 adele = Person.new
 alan_kay = Person.new
